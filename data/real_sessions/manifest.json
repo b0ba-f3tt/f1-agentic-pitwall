@@ -1,0 +1,53 @@
+[
+  {
+    "dataset_id": "2024_Silverstone_R",
+    "year": 2024,
+    "gp": "Silverstone",
+    "session": "R",
+    "total_laps": 52,
+    "total_rows": 960,
+    "featured_drivers": [
+      "HAM",
+      "VER",
+      "NOR",
+      "LEC",
+      "SAI"
+    ],
+    "laps_file": "data/real_sessions/2024_Silverstone_R_laps.parquet",
+    "weather_file": "data/real_sessions/2024_Silverstone_R_weather.parquet"
+  },
+  {
+    "dataset_id": "2024_Monza_R",
+    "year": 2024,
+    "gp": "Monza",
+    "session": "R",
+    "total_laps": 53,
+    "total_rows": 1008,
+    "featured_drivers": [
+      "LEC",
+      "PIA",
+      "NOR",
+      "SAI",
+      "VER"
+    ],
+    "laps_file": "data/real_sessions/2024_Monza_R_laps.parquet",
+    "weather_file": "data/real_sessions/2024_Monza_R_weather.parquet"
+  },
+  {
+    "dataset_id": "2023_Singapore_R",
+    "year": 2023,
+    "gp": "Singapore",
+    "session": "R",
+    "total_laps": 62,
+    "total_rows": 1088,
+    "featured_drivers": [
+      "SAI",
+      "NOR",
+      "HAM",
+      "RUS",
+      "LEC"
+    ],
+    "laps_file": "data/real_sessions/2023_Singapore_R_laps.parquet",
+    "weather_file": "data/real_sessions/2023_Singapore_R_weather.parquet"
+  }
+]
